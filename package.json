@@ -45,5 +45,8 @@
     "webpack-hot-middleware": "^2.21.2",
     "webpack-merge": "^4.1.2",
     "whatwg-fetch": "^2.0.3"
+  },
+  "devDependencies": {
+    "serviceworker-webpack-plugin": "^1.0.0-alpha02"
   }
 }
