@@ -3,7 +3,8 @@ dist/
 
 # Config file
 config/config.js
-
+*.env
+*.dev
 # Node stuff
 node_modules
 .npm
@@ -11,7 +12,7 @@ node_modules
 .lock-wscript
 logs
 *.log
-npm-debug.log*
+npm-debug.log
 
 # OS stuff
 Desktop.ini
